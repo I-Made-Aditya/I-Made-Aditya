@@ -35,7 +35,7 @@
 
 <a href="https://www.linkedin.com/in/madeaditya/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:made.aditya.2230@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://www.instagram.com/made__aditya_/"><img src="https://img.shields.io/badge/-@abhi__1507_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://www.instagram.com/made__aditya_/"><img src="https://img.shields.io/badge/-@made__aditya_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 <!--
 **I Made Aditya Rama Putra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
